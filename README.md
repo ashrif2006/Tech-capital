@@ -3,7 +3,6 @@
 A modern and responsive HTML & CSS website showcasing clean design, intuitive layout, and professional structure.
 
 ## 📌 Features
-- Fully responsive (Mobile First design)
 - Clean and organized HTML & CSS structure
 - Modern UI design with user-friendly layout
 - Easy to customize and expand
@@ -16,8 +15,6 @@ A modern and responsive HTML & CSS website showcasing clean design, intuitive la
 ```text
 TecCapital/
 │── index.html
-│── css/
-│   └── style.css
-│── assets/
-│   └── images/
+│── style.css
+│── img
 │── README.md
